@@ -1,10 +1,11 @@
 #### OSINT : cas d'étude d'une vidéo YouTube
 
-Cet investisseur immobilier nous montre son potentiel futur bien qu'il va acquérir, pour ce la il nous fait un état des lieux en se rendant directement à l'adresse du bien indiqué, puis nous fera une séance improvisée d'urbex
+Cet investisseur immobilier nous montre son potentiel futur bien qu'il va acquérir, pour celà il nous fait un état des lieux en se rendant directement à l'adresse du bien indiquée, puis nous fera une séance improvisée d'urbex
 
 On constatera que celui qui a monté la vidéo, a voulu flouter les informations pour ne pas faciliter la localisation du dit bien, toutefois, malgré ses précautions, vous constaterez qu'elles sont vaines.
 
 La vidéo en question est celle-ci : https://www.youtube.com/watch?v=6f0H0imlokQ
+
 Vidéo assez longue d'un peu moins d'une heure dont voici la miniature
 
 <p align="center"><img src="http://i.imgur.com/eB1rZ8D.png"/></p>
@@ -16,7 +17,7 @@ Vers le début de la vidéo, on remarquera qu'il sort de chez lui, passant devan
 <p align="center"><img src="http://i.imgur.com/rCA9kjq.png"></p>
 
 
-Tout ce que je peux savoir à ce moment là, c'est que la rue se termine par Alexandre, ce n'est qu'après que je comprendrais que le mot au dessus d'Alexandre désignait tout simplement le type de la voirie
+Tout ce que je peux savoir à ce moment là, c'est que la rue se termine par Alexandre, ce n'est qu'après que je comprendrais que le mot au dessus d'Alexandre désignait tout simplement le type de voie
 
 
 <p align="center"><img src="http://i.imgur.com/lhpxu9H.png"></p>
