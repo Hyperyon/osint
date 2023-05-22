@@ -87,4 +87,5 @@ Il ne me reste plus qu'à trouver le nom de la voie qui contient le mot Alexandr
 A partir de là, je n'avais plus qu'à chercher sur Google Map la rue perpendiculaire à celle-ci
 
 Et le tour était joué !
+
 ![](https://i.imgur.com/cxp3NCH.png)
