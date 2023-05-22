@@ -55,7 +55,7 @@ Je décide alors de trouver sur internet une base de données regroupant toutes 
 
 Je tombe alors sur ce site https://www.lesruesdefrance.com/
 
-Base de données très intéressantes, je fouille un peu dessus avant de trouver où il trouve ses sources d'informations
+Base de données très intéressante, je fouille un peu dessus avant de trouver où il trouve ses sources d'informations
 
 Finalement je trouve un index d'archives regroupant toutes les rues par départements https://adresse.data.gouv.fr/data/ban/adresses/latest/csv/
 
@@ -87,7 +87,7 @@ Je décide alors de filtrer les données en supprimant les doublons, et ne m'int
     print(len(data))
     ouate(json.dumps(data,indent=4),"data.json")
 
-J'obtiens une liste que je stock on faisant un dump et on le stockant dans un fichier data.json. J'ai une liste nettoyée et filtrée
+J'obtiens une liste que je stocke en faisant un dump pour le sauvegarder dans un fichier data.json. J'ai une liste nettoyée et filtrée désormais sur laquelle je vais pouvoir effectuer mes recherches
 
 
 <p align="center"><img src="http://i.imgur.com/7x9F9RO.png" width="350px"/></p>
