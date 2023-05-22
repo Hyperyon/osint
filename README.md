@@ -22,11 +22,13 @@ Tout ce que je peux savoir à ce moment là, c'est que la rue se termine par Ale
 A noter qu'on a une première indication rien qu'avec ce type d'architecture qui est typique des habitations du Nord constituées de briques rouges, avec parfois des contours en pierre blanche
 
 ![](https://i.imgur.com/nHxVff3.png)
+
 Sur plusieurs voitures, on peut deviner le numéro du département dans lequel il se trouve. Une des voitures affiche d'ailleurs clairement le numéro
 
 A noter que pour extraire certaines informations ci-dessous, il m'a fallu ralentir la vitesse de la vidéo à son minimum (x0.25)
 
 Vers le milieu de la vidéo, le vidéaste nous montre une partie de son cadastre en prenant là aussi le soin de ne pas révéler le nom des rues 
+
 ![](https://i.imgur.com/trBmS6i.png)
 
 Nous avons aussi une petite portion d'une carte Google Map, en plein milieu se trouve un terrain de football ce qui nous avance à pas grand chose. Quant morceau du lieu dit se terminant par 'VEAUCOURT', malgré cette info précieuse, je ne trouve toujours pas
