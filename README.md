@@ -37,7 +37,7 @@ Vers le milieu de la vidéo, le vidéaste nous montre une partie de son cadastre
 
 <p align="center"><img src="http://i.imgur.com/trBmS6i.png"  width="500px"/></p>
 
-Nous avons aussi une petite portion d'une carte Google Map, en plein milieu se trouve un terrain de football ce qui nous avance à pas grand chose. Quant morceau du lieu dit se terminant par 'VEAUCOURT', malgré cette info précieuse, je ne trouve toujours pas
+Nous avons aussi une petite portion d'une carte Google Map, en plein milieu se trouve un terrain de football ce qui nous avance à pas grand chose. Quant au morceau du lieu dit se terminant par 'VEAUCOURT', malgré cette info précieuse, je ne trouve toujours pas
 
 <p align="center"><img src="http://i.imgur.com/7TKDrec.png"  /></p>
 
