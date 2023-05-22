@@ -7,22 +7,25 @@ On constatera que celui qui a monté la vidéo, a voulu flouter les informations
 La vidéo en question est celle-ci : https://www.youtube.com/watch?v=6f0H0imlokQ
 Vidéo assez longue d'un peu moins d'une heure dont voici la miniature
 
-![](https://i.imgur.com/eB1rZ8D.png)
+<p align="center"><img src="http://i.imgur.com/eB1rZ8D.png"/></p>
 
 Un premier visionnage rapide, me permet de trouver les passages intéressants pour collecter un maximum d'informations afin de déterminer la localisation de son bien immobilier
 
 Vers le début de la vidéo, on remarquera qu'il sort de chez lui, passant devant le panneau d'une rue perpendiculaire à la sienne. Je n'ai pas pu déterminer tout de suite avec certitude le nom de la voirie
 
-![](https://i.imgur.com/rCA9kjq.png)
+<p align="center"><img src="http://i.imgur.com/rCA9kjq.png"></p>
+
 
 Tout ce que je peux savoir à ce moment là, c'est que la rue se termine par Alexandre, ce n'est qu'après que je comprendrais que le mot au dessus d'Alexandre désignait tout simplement le type de la voirie
 
-![](https://i.imgur.com/lhpxu9H.png)
+
+<p align="center"><img src="http://i.imgur.com/lhpxu9H.png"></p>
+
 
 A noter qu'on a une première indication rien qu'avec ce type d'architecture qui est typique des habitations du Nord constituées de briques rouges, avec parfois des contours en pierre blanche
 
 
-<p align="center"><img src="http://i.imgur.com/nHxVff3.png"  width="450px"/></p>
+<p align="center"><img src="http://i.imgur.com/nHxVff3.png"></p>
 
 
 Sur plusieurs voitures, on peut deviner le numéro du département dans lequel il se trouve. Une des voitures affiche d'ailleurs clairement le numéro
@@ -35,7 +38,8 @@ Vers le milieu de la vidéo, le vidéaste nous montre une partie de son cadastre
 
 Nous avons aussi une petite portion d'une carte Google Map, en plein milieu se trouve un terrain de football ce qui nous avance à pas grand chose. Quant morceau du lieu dit se terminant par 'VEAUCOURT', malgré cette info précieuse, je ne trouve toujours pas
 
-![](https://i.imgur.com/7TKDrec.png)
+<p align="center"><img src="http://i.imgur.com/7TKDrec.png"  /></p>
+
 
 J'ai tenté aussi de deviner les départementales qui cadrent son secteur, là aussi sans succès. On peut juste déduire qu'il y a au moins deux départementales signalées par les carrés jaunes. Un avec deux chiffres et l'autre route avec trois chiffres, mais les possibilités étant trop nombreuses j'abandonne l'idée de localiser avec ces éléments là..
 
@@ -84,7 +88,9 @@ Je décide alors de filtrer les données en supprimant les doublons, et ne m'int
 
 J'obtiens une liste que je stock on faisant un dump et on le stockant dans un fichier data.json. J'ai une liste nettoyée et filtrée
 
-![](https://i.imgur.com/7x9F9RO.png)
+
+<p align="center"><img src="http://i.imgur.com/7x9F9RO.png" width="350px"/></p>
+
 
 Il ne me reste plus qu'à trouver le nom de la voie qui contient le mot Alexandre. Sachant que le panneau indiquait 'mot inconnu Alexandre', je tombe rapidement sur Sentier Alexandre..
 
@@ -92,4 +98,5 @@ A partir de là, je n'avais plus qu'à chercher sur Google Map la rue perpendicu
 
 Et le tour était joué !
 
-![](https://i.imgur.com/cxp3NCH.png)
+<p align="center"><img src="http://i.imgur.com/cxp3NCH.png"></p>
+
